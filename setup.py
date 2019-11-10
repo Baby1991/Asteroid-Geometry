@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="Geometry-Baby1991", # Replace with your own username
+    name="Asteroid-Geometry-Baby1991",
     version="0.0.1",
     author="Baby1991",
     author_email="dancingbaby1991@gmail.com",
-    description="A small Geometry package",
+    description="A small Geometry package for Working With Asteroid Shine Simulations",
     long_description=long_description,
-    long_description_content_type="geometry",
-    url="https://github.com/pypa/sampleproject",
+    long_description_content_type="text/markdown",
+    url="https://github.com/Baby1991/Asteroid-Geometry",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
