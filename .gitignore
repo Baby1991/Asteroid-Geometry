@@ -1,0 +1,5 @@
+dist/*
+
+Asteroid_Geometry_Baby1991.egg-info/*
+
+build/lib/Asteroid_Geometry/*
