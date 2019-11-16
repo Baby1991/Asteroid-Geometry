@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="Asteroid-Geometry-Baby1991",
-    version="0.0.1",
+    version="0.0.2",
     author="Baby1991",
     author_email="dancingbaby1991@gmail.com",
     description="A small Geometry package for Working With Asteroid Shine Simulations",
